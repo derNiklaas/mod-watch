@@ -1,10 +1,10 @@
 ## mod-watch
 
-mod-watch is a plugin for [nodecg-io](https://nodecg-io), that allows a broadcaster to monitor the activity of their moderation team.
+mod-watch is a plugin for [nodecg-io](https://nodecg.io) that allows a broadcaster to monitor the activity of their moderation team.
 
 ### Installation
 
-1. Clone this project into an existing [nodecg-io](https://nodecg-io) installation.
+1. Clone this project into an existing [nodecg-io](https://nodecg.io) installation.
 2. Add the path to the mod-watch folder in the ``lerna.json`` file.
 3. Edit the channel and the name of the bots in ``mod-watch/extension/index.ts``.
 4. Run ``npm run bootstrap`` and ``npm run build`` in the nodecg-io directory.

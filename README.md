@@ -16,4 +16,4 @@ Note: The Twitch account should have the following permissions: ``chat:read whis
 The account you specified (it should NOT be your account) will now sit in your channel and listen for any messages from a moderator.
 
 It will save the date of the last message in ``mod-watch/extension/data/data.json``.
-The broadcaster can also use ``!mod-watch mods``.
+The broadcaster can also use ``!mod-watch data``.
